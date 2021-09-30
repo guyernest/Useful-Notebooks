@@ -11,6 +11,11 @@ The first journey to AI should start with using existing API that are able to so
 
 This is a classical example of machine learning model from 1978. In [this notebook](https://github.com/guyernest/Useful-Notebooks/blob/master/Boston%20Housing.ipynb), we are loading the data from sklearn, exploring the data using a few graphs, building a linear regression model using sklearn, and then build a simple linear model using PyTorch which does better than the linear regression model.
 
+## Chalice on Jupyter notebooks examples
+
+Two notebooks with _hello_world_ and _hello_planet_ examples to demonstrate how to develop micro-services on AWS lambda directly from an interactive Jupyter notebook. Including development and local testing of functions, deployment to Lambda and API-Gateway, and testing the newly created REST API.
+
+
 ## XGBoost on SageMaker
 
 This is a notebook that is designed to solve common confusions of using SageMaker. [This notebook](https://github.com/guyernest/Useful-Notebooks/blob/master/xgboost-on-sagemaker.ipynb) is showing
